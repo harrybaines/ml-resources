@@ -5,4 +5,4 @@ of reference for most ML or general data science projects.
 
 ## Useful Repositories
 
-- General data science template in Python (see the repo [here](https://github.com/harrybaines/data-science-template))
+- [General data science template in Python](https://github.com/harrybaines/data-science-template)
