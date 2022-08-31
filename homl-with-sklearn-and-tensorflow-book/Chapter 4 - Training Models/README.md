@@ -6,5 +6,5 @@ The key idea of linear regression is to estimate the parameters of a linear func
 
 ### Usage
 ```
-python3 main.py
+python3 linear-regression.py
 ```
