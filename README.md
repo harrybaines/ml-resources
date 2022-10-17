@@ -3,7 +3,7 @@
 This repo contains all the code and resources I've collected over the years and provides a handy single point 
 of reference for most ML or general data science projects. 
 
-## Creating a virtual environment
+## Creating a Virtual Environment
 
 First, create a new environment called `venv`:
 
