@@ -8,7 +8,7 @@ of reference for most ML or general data science projects.
 First, create a new environment called `venv`:
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 ```
 
 Then activate it:
