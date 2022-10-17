@@ -20,13 +20,13 @@ source venv/bin/activate
 Then install dependencies into it (if you have a `requirements.txt`, otherwise just use `pip install X Y Z`):
 
 ```bash
-pip install -r requirements.txt
+(venv) pip install -r requirements.txt
 ```
 
 If you want to use Jupyter, install `ipykernel`:
 
 ```bash
-python -m ipykernel install --user --name=venv
+(venv) python -m ipykernel install --user --name=venv
 ```
 
 Remember to select `venv` as the preferred kernel in Jupyter so it can read your dependencies.
