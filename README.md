@@ -34,3 +34,14 @@ Remember to select `venv` as the preferred kernel in Jupyter so it can read your
 ## Useful Repositories
 
 - [General data science template in Python](https://github.com/harrybaines/data-science-template)
+
+## Maintenance
+
+To update the submodules in this repo:
+
+```bash
+git submodule foreach git pull origin main
+```
+
+Then add and commit the new changes to create a new commit for the updated submodules in this 
+repo.
