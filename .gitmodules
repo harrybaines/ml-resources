@@ -1,3 +1,6 @@
 [submodule "datacamp-ml-scientist-track"]
 	path = datacamp-ml-scientist-track
 	url = https://github.com/harrybaines/datacamp-ml-scientist-track.git
+[submodule "maths-for-ml-specialisation"]
+	path = maths-for-ml-specialisation
+	url = https://github.com/harrybaines/maths-for-ml-specialisation.git
